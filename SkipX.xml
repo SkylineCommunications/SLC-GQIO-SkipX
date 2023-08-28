@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>SkipX</Name>
+	<Description></Description>
+	<Type>Automation</Type>
+	<Author>SKYLINE2\MichielOD</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>GQI Operators</Folder>
+
+	<Protocols>
+	</Protocols>
+
+	<Memory>
+	</Memory>
+
+	<Parameters>
+	</Parameters>
+
+	<Script>
+		<Exe id="1" type="csharp">
+			<Value><![CDATA[[Project:SkipX_1]]]></Value>
+			<Param type="preCompile">true</Param>
+			<Param type="libraryName">SkipX</Param>
+			<Message></Message>
+		</Exe>
+	</Script>
+</DMSScript>
