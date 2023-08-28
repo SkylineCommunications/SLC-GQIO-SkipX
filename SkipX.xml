@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
 	<Name>SkipX</Name>
-	<Description></Description>
+	<Description>GQI Operator that will skip X amount of rows.</Description>
 	<Type>Automation</Type>
 	<Author>SKYLINE2\MichielOD</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder>GQI Operators</Folder>
+	<Folder>GQI/Operators</Folder>
 
 	<Protocols>
 	</Protocols>
